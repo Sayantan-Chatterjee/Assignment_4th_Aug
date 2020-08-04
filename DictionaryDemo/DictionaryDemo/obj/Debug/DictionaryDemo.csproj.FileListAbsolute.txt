@@ -1,0 +1,7 @@
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojAssemblyReference.cache
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+F:\FrameWork\Assignment_4th_aug\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
